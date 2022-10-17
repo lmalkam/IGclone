@@ -52,7 +52,6 @@ ul {
     display: block;
     color: black  ;
     text-align: center;
-    font-weight: bold;
     font-family: 'Segoe UI';
     padding: 14px 16px;
     text-decoration: none;
@@ -66,7 +65,7 @@ ul {
 
 .box{
   color: #04AA6D;
-  font-size: 30px;
+  font-size: 14px;
   padding: 50px;
   border-style: dashed;
   border-color: #111;
