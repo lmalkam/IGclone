@@ -1,5 +1,5 @@
 * { 
-  margin: 0;
+  margin:0;
   padding: 0;
   box-sizing: border-box;
   font-family: 'Segoe UI';
@@ -30,13 +30,15 @@ ul {
 
 #title{
   list-style-type: none;
-  padding-left: 830px;
+  margin-left: auto;
+  margin-right: 1.5rem;
 }
     
   
 
 
   .navbar {
+    margin
     position: relative;
     padding: 0.5 rem 1rem;
     align-items: center;
